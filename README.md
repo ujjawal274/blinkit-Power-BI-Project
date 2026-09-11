@@ -297,7 +297,7 @@ BlinkIT-Grocery-Sales-Dashboard/
 Then add the following to display the screenshot:
 
 ```markdown
-![BlinkIT Grocery Sales Dashboard](https://github.com/ujjawal274/blinkit-Power-BI-Project/blob/20773e05c0d0f356adb5ccc613711f3997ec96a4/Screenshot%202026-09-11%20190021.png)
+![image alt](https://github.com/ujjawal274/blinkit-Power-BI-Project/blob/20773e05c0d0f356adb5ccc613711f3997ec96a4/Screenshot%202026-09-11%20190021.png)
 ```
 
 ---
