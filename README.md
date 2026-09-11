@@ -8,7 +8,6 @@
 ![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-1F4E78?style=for-the-badge)
 ![Retail Analytics](https://img.shields.io/badge/Retail-Analytics-2E7D32?style=for-the-badge)
 ![Interactive Dashboard](https://img.shields.io/badge/Interactive-Dashboard-FF6F00?style=for-the-badge)
-![KPIs](https://img.shields.io/badge/4-Core-KPIs-8E44AD?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data-Visualization-34495E?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
