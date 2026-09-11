@@ -294,10 +294,9 @@ BlinkIT-Grocery-Sales-Dashboard/
     └── Dashboard.png
 ```
 
-Then add the following to display the screenshot:
+<img width="1205" height="475" alt="Screenshot 2026-09-11 190021" src="https://github.com/user-attachments/assets/893d060f-e51a-4f64-8d19-72f3b357cbf7" />
 
-```markdown
-![image alt](https://github.com/ujjawal274/blinkit-Power-BI-Project/blob/20773e05c0d0f356adb5ccc613711f3997ec96a4/Screenshot%202026-09-11%20190021.png)
+
 ```
 
 ---
