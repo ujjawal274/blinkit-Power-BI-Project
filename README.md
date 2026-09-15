@@ -378,7 +378,7 @@ If you would like to contribute:
 
 ---
 
-## ⭐ Support
+## ⭐ Support !!
 
 If you found this project useful or interesting, consider giving the repository a **⭐ Star** on GitHub.
 
